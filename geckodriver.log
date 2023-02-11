@@ -1,0 +1,1898 @@
+1672932222829	geckodriver	INFO	Listening on 127.0.0.1:39581
+1672932223312	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "48379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGkUw0P"
+*** You are running in headless mode.
+Gtk-Message: 16:23:43.330: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932223522	Marionette	INFO	Marionette enabled
+1672932223525	Marionette	INFO	Listening on port 34943
+WebDriver BiDi listening on ws://127.0.0.1:48379
+Read port: 34943
+1672932223745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGkUw0P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48379/devtools/browser/411932b0-5564-428e-8af0-05a08de7c234
+1672932225794	Marionette	INFO	Stopped listening on port 34943
+1672932226728	geckodriver	INFO	Listening on 127.0.0.1:39991
+1672932227209	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "50851" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile04Ae3s"
+*** You are running in headless mode.
+Gtk-Message: 16:23:47.228: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932227422	Marionette	INFO	Marionette enabled
+1672932227424	Marionette	INFO	Listening on port 39691
+WebDriver BiDi listening on ws://127.0.0.1:50851
+Read port: 39691
+1672932227632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile04Ae3s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50851/devtools/browser/740f8209-5cca-4a7f-9449-cc6951b97027
+1672932229751	Marionette	INFO	Stopped listening on port 39691
+1672932230691	geckodriver	INFO	Listening on 127.0.0.1:34261
+1672932231172	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "51583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilex2xhha"
+*** You are running in headless mode.
+Gtk-Message: 16:23:51.192: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932231386	Marionette	INFO	Marionette enabled
+1672932231389	Marionette	INFO	Listening on port 35735
+WebDriver BiDi listening on ws://127.0.0.1:51583
+Read port: 35735
+1672932231597	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilex2xhha/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51583/devtools/browser/8db519c8-33df-471c-8fe6-a3545e679450
+1672932233775	Marionette	INFO	Stopped listening on port 35735
+1672932234621	geckodriver	INFO	Listening on 127.0.0.1:55299
+1672932235081	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "35033" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK5ksjf"
+*** You are running in headless mode.
+Gtk-Message: 16:23:55.100: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932235294	Marionette	INFO	Marionette enabled
+1672932235296	Marionette	INFO	Listening on port 37657
+WebDriver BiDi listening on ws://127.0.0.1:35033
+Read port: 37657
+1672932235513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK5ksjf/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35033/devtools/browser/ad99cca0-2d15-4237-9cd1-27ddfe1bc543
+1672932237663	Marionette	INFO	Stopped listening on port 37657
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932238494	geckodriver	INFO	Listening on 127.0.0.1:55397
+1672932238973	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "48631" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefZ4c5j"
+*** You are running in headless mode.
+Gtk-Message: 16:23:58.991: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932239186	Marionette	INFO	Marionette enabled
+1672932239188	Marionette	INFO	Listening on port 35005
+WebDriver BiDi listening on ws://127.0.0.1:48631
+Read port: 35005
+1672932239400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefZ4c5j/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48631/devtools/browser/1cf9d8ad-f41f-4246-b465-7786640489d8
+1672932241576	Marionette	INFO	Stopped listening on port 35005
+1672932242406	geckodriver	INFO	Listening on 127.0.0.1:59299
+1672932242880	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2ju4wQ"
+*** You are running in headless mode.
+Gtk-Message: 16:24:02.898: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932243105	Marionette	INFO	Marionette enabled
+1672932243108	Marionette	INFO	Listening on port 41233
+WebDriver BiDi listening on ws://127.0.0.1:56909
+Read port: 41233
+1672932243312	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2ju4wQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56909/devtools/browser/c93aee98-be3a-426a-8e6d-b69cc085677c
+1672932245505	Marionette	INFO	Stopped listening on port 41233
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932246341	geckodriver	INFO	Listening on 127.0.0.1:44765
+1672932246829	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "59971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCfWfyI"
+*** You are running in headless mode.
+Gtk-Message: 16:24:06.845: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932247041	Marionette	INFO	Marionette enabled
+1672932247043	Marionette	INFO	Listening on port 41051
+WebDriver BiDi listening on ws://127.0.0.1:59971
+Read port: 41051
+1672932247250	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCfWfyI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59971/devtools/browser/b9113777-408a-4e31-9d00-76dd7f78e59c
+1672932249451	Marionette	INFO	Stopped listening on port 41051
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932250282	geckodriver	INFO	Listening on 127.0.0.1:51607
+1672932250761	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "38557" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepWTb3Z"
+*** You are running in headless mode.
+Gtk-Message: 16:24:10.781: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932250976	Marionette	INFO	Marionette enabled
+1672932250979	Marionette	INFO	Listening on port 38345
+WebDriver BiDi listening on ws://127.0.0.1:38557
+Read port: 38345
+1672932251189	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepWTb3Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38557/devtools/browser/62ac21e1-59d5-4555-a33e-c7c72ba88701
+1672932253402	Marionette	INFO	Stopped listening on port 38345
+1672932254229	geckodriver	INFO	Listening on 127.0.0.1:57417
+1672932254689	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2Lf29U"
+*** You are running in headless mode.
+Gtk-Message: 16:24:14.708: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932254907	Marionette	INFO	Marionette enabled
+1672932254909	Marionette	INFO	Listening on port 41277
+WebDriver BiDi listening on ws://127.0.0.1:46329
+Read port: 41277
+1672932255117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2Lf29U/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46329/devtools/browser/8c52c0f8-2884-40c9-83e3-5b9dbe034380
+1672932257238	Marionette	INFO	Stopped listening on port 41277
+1672932258176	geckodriver	INFO	Listening on 127.0.0.1:44711
+1672932258636	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "60141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileA0UDHB"
+*** You are running in headless mode.
+Gtk-Message: 16:24:18.655: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932258851	Marionette	INFO	Marionette enabled
+1672932258853	Marionette	INFO	Listening on port 40809
+WebDriver BiDi listening on ws://127.0.0.1:60141
+Read port: 40809
+1672932259127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA0UDHB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60141/devtools/browser/5905fbad-1d18-4468-a031-4b2da39e8984
+1672932261291	Marionette	INFO	Stopped listening on port 40809
+1672932262029	geckodriver	INFO	Listening on 127.0.0.1:55479
+1672932262513	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "41783" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilef9yIld"
+*** You are running in headless mode.
+Gtk-Message: 16:24:22.532: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932262729	Marionette	INFO	Marionette enabled
+1672932262732	Marionette	INFO	Listening on port 44889
+WebDriver BiDi listening on ws://127.0.0.1:41783
+Read port: 44889
+1672932262961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef9yIld/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41783/devtools/browser/45269641-eae3-443d-969c-86fa8b935409
+1672932265068	Marionette	INFO	Stopped listening on port 44889
+1672932265997	geckodriver	INFO	Listening on 127.0.0.1:41037
+1672932266475	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileEMrxic"
+*** You are running in headless mode.
+Gtk-Message: 16:24:26.494: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932266691	Marionette	INFO	Marionette enabled
+1672932266693	Marionette	INFO	Listening on port 33319
+WebDriver BiDi listening on ws://127.0.0.1:54223
+Read port: 33319
+1672932266899	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEMrxic/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54223/devtools/browser/9cffe845-2bcf-4a29-a8aa-0a4a1b3abfa8
+1672932269186	geckodriver	INFO	Listening on 127.0.0.1:55131
+1672932269664	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQuoq2A"
+*** You are running in headless mode.
+Gtk-Message: 16:24:29.683: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932269879	Marionette	INFO	Marionette enabled
+1672932269881	Marionette	INFO	Listening on port 38281
+WebDriver BiDi listening on ws://127.0.0.1:43567
+Read port: 38281
+1672932270090	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQuoq2A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43567/devtools/browser/b950bbea-892a-47f1-966e-30541f95abaf
+1672932273254	geckodriver	INFO	Listening on 127.0.0.1:58189
+1672932273736	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43069" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekNddYo"
+*** You are running in headless mode.
+Gtk-Message: 16:24:33.754: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932273946	Marionette	INFO	Marionette enabled
+1672932273948	Marionette	INFO	Listening on port 39939
+WebDriver BiDi listening on ws://127.0.0.1:43069
+Read port: 39939
+1672932274152	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekNddYo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43069/devtools/browser/1f19568c-2a09-49d9-a99b-e6932d69dca4
+1672932276305	Marionette	INFO	Stopped listening on port 39939
+1672932277123	geckodriver	INFO	Listening on 127.0.0.1:59093
+1672932277604	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUa3cth"
+*** You are running in headless mode.
+Gtk-Message: 16:24:37.625: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932277820	Marionette	INFO	Marionette enabled
+1672932277822	Marionette	INFO	Listening on port 39423
+WebDriver BiDi listening on ws://127.0.0.1:56703
+Read port: 39423
+1672932278022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUa3cth/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56703/devtools/browser/add73bdd-3e84-4074-9f6c-2218bda56875
+1672932280206	Marionette	INFO	Stopped listening on port 39423
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932281030	geckodriver	INFO	Listening on 127.0.0.1:49301
+1672932281512	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58223" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileB7FbRI"
+*** You are running in headless mode.
+Gtk-Message: 16:24:41.532: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932281742	Marionette	INFO	Marionette enabled
+1672932281745	Marionette	INFO	Listening on port 41013
+WebDriver BiDi listening on ws://127.0.0.1:58223
+Read port: 41013
+1672932281954	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileB7FbRI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58223/devtools/browser/be614d80-f2b5-4f88-bb40-396ceb669807
+1672932284138	Marionette	INFO	Stopped listening on port 41013
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932284984	geckodriver	INFO	Listening on 127.0.0.1:51633
+1672932285447	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58873" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9yNZ3M"
+*** You are running in headless mode.
+Gtk-Message: 16:24:45.466: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932285663	Marionette	INFO	Marionette enabled
+1672932285666	Marionette	INFO	Listening on port 46267
+WebDriver BiDi listening on ws://127.0.0.1:58873
+Read port: 46267
+1672932285873	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9yNZ3M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58873/devtools/browser/5f4a7f68-698f-42fa-8b37-e9fc852a3254
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932287991	Marionette	INFO	Stopped listening on port 46267
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932288931	geckodriver	INFO	Listening on 127.0.0.1:39729
+1672932289394	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "51859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewWyZtl"
+*** You are running in headless mode.
+Gtk-Message: 16:24:49.413: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932289609	Marionette	INFO	Marionette enabled
+1672932289612	Marionette	INFO	Listening on port 43397
+WebDriver BiDi listening on ws://127.0.0.1:51859
+Read port: 43397
+1672932289815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewWyZtl/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:51859/devtools/browser/d22ff985-7599-4eb5-bae6-cdcf2fad7084
+1672932291925	geckodriver	INFO	Listening on 127.0.0.1:52307
+1672932292404	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileljdse7"
+*** You are running in headless mode.
+Gtk-Message: 16:24:52.424: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932292623	Marionette	INFO	Marionette enabled
+1672932292625	Marionette	INFO	Listening on port 36339
+WebDriver BiDi listening on ws://127.0.0.1:52455
+Read port: 36339
+1672932292829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileljdse7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52455/devtools/browser/5e67e8af-7945-4917-8e9e-da84346aeed0
+1672932295965	Marionette	INFO	Stopped listening on port 36339
+1672932296513	geckodriver	INFO	Listening on 127.0.0.1:35307
+1672932296976	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "57929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepIov1B"
+*** You are running in headless mode.
+Gtk-Message: 16:24:56.995: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932297194	Marionette	INFO	Marionette enabled
+1672932297196	Marionette	INFO	Listening on port 34163
+WebDriver BiDi listening on ws://127.0.0.1:57929
+Read port: 34163
+1672932297406	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepIov1B/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57929/devtools/browser/e703d0f3-4796-4226-9cda-ff5d4ce2c8f5
+1672932299557	Marionette	INFO	Stopped listening on port 34163
+1672932300381	geckodriver	INFO	Listening on 127.0.0.1:54101
+1672932300838	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "51945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilettJwxN"
+*** You are running in headless mode.
+Gtk-Message: 16:25:00.856: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932301062	Marionette	INFO	Marionette enabled
+1672932301065	Marionette	INFO	Listening on port 33073
+WebDriver BiDi listening on ws://127.0.0.1:51945
+Read port: 33073
+1672932301270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilettJwxN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51945/devtools/browser/f7c1719c-685d-4283-9e10-35c93ece3212
+1672932303461	Marionette	INFO	Stopped listening on port 33073
+1672932304288	geckodriver	INFO	Listening on 127.0.0.1:51249
+1672932304772	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "55801" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehL5Bxy"
+*** You are running in headless mode.
+Gtk-Message: 16:25:04.793: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932305031	Marionette	INFO	Marionette enabled
+1672932305035	Marionette	INFO	Listening on port 34155
+Read port: 34155
+WebDriver BiDi listening on ws://127.0.0.1:55801
+1672932305108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehL5Bxy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55801/devtools/browser/655ec8ac-e37b-4c11-b82f-5fe945cf328b
+1672932307434	Marionette	INFO	Stopped listening on port 34155
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932308269	geckodriver	INFO	Listening on 127.0.0.1:58029
+1672932308744	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58081" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehOrXg0"
+*** You are running in headless mode.
+Gtk-Message: 16:25:08.762: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932309004	Marionette	INFO	Marionette enabled
+1672932309007	Marionette	INFO	Listening on port 46047
+Read port: 46047
+WebDriver BiDi listening on ws://127.0.0.1:58081
+1672932309082	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehOrXg0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58081/devtools/browser/1f1e90aa-552f-4539-8a2b-95bd0f1c0d30
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932311438	geckodriver	INFO	Listening on 127.0.0.1:56299
+1672932311908	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "37479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewsdqgO"
+*** You are running in headless mode.
+Gtk-Message: 16:25:11.927: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932312125	Marionette	INFO	Marionette enabled
+1672932312127	Marionette	INFO	Listening on port 43877
+WebDriver BiDi listening on ws://127.0.0.1:37479
+Read port: 43877
+1672932312341	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewsdqgO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37479/devtools/browser/244b965d-057e-4138-8ad1-0492d5fc652d
+1672932315766	geckodriver	INFO	Listening on 127.0.0.1:45223
+1672932316248	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "53453" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLsT2J6"
+*** You are running in headless mode.
+Gtk-Message: 16:25:16.264: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932316464	Marionette	INFO	Marionette enabled
+1672932316466	Marionette	INFO	Listening on port 42631
+WebDriver BiDi listening on ws://127.0.0.1:53453
+Read port: 42631
+1672932316701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLsT2J6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53453/devtools/browser/1ac5acea-4b09-4420-a1e0-1cf6e05d699f
+1672932318901	Marionette	INFO	Stopped listening on port 42631
+1672932319629	geckodriver	INFO	Listening on 127.0.0.1:54645
+1672932320090	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "51521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileenaOVx"
+*** You are running in headless mode.
+Gtk-Message: 16:25:20.110: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932320311	Marionette	INFO	Marionette enabled
+1672932320314	Marionette	INFO	Listening on port 42637
+WebDriver BiDi listening on ws://127.0.0.1:51521
+Read port: 42637
+1672932320519	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileenaOVx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51521/devtools/browser/8dd3deaa-6c62-41ac-a5b8-f2604ac3b6c7
+1672932322609	Marionette	INFO	Stopped listening on port 42637
+1672932323547	geckodriver	INFO	Listening on 127.0.0.1:39263
+1672932324032	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefjkTBu"
+*** You are running in headless mode.
+Gtk-Message: 16:25:24.051: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932324246	Marionette	INFO	Marionette enabled
+1672932324249	Marionette	INFO	Listening on port 33307
+WebDriver BiDi listening on ws://127.0.0.1:33301
+Read port: 33307
+1672932324461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefjkTBu/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33301/devtools/browser/368bbec3-5118-4ad5-a67c-eb750bdf2991
+1672932326579	Marionette	INFO	Stopped listening on port 33307
+1672932327421	geckodriver	INFO	Listening on 127.0.0.1:56973
+1672932327905	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "55085" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ8QanS"
+*** You are running in headless mode.
+Gtk-Message: 16:25:27.921: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932328119	Marionette	INFO	Marionette enabled
+1672932328122	Marionette	INFO	Listening on port 32965
+WebDriver BiDi listening on ws://127.0.0.1:55085
+Read port: 32965
+1672932328331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ8QanS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55085/devtools/browser/b913dabc-5c07-4836-96ac-f5476de1708a
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932330596	geckodriver	INFO	Listening on 127.0.0.1:44237
+1672932331068	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "60037" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqJtJwI"
+*** You are running in headless mode.
+Gtk-Message: 16:25:31.083: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932331282	Marionette	INFO	Marionette enabled
+1672932331285	Marionette	INFO	Listening on port 34037
+WebDriver BiDi listening on ws://127.0.0.1:60037
+Read port: 34037
+1672932331513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqJtJwI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60037/devtools/browser/bccf7163-5737-4d0a-925f-9dd2f0cf7f4f
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932334691	geckodriver	INFO	Listening on 127.0.0.1:56041
+1672932335176	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "48141" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile11ogS6"
+*** You are running in headless mode.
+Gtk-Message: 16:25:35.193: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932335384	Marionette	INFO	Marionette enabled
+1672932335386	Marionette	INFO	Listening on port 41975
+WebDriver BiDi listening on ws://127.0.0.1:48141
+Read port: 41975
+1672932335596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile11ogS6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48141/devtools/browser/bd25befa-acc9-4131-8c64-4f80947d8d7a
+1672932337749	Marionette	INFO	Stopped listening on port 41975
+1672932338577	geckodriver	INFO	Listening on 127.0.0.1:59117
+1672932339060	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "42451" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuAHygt"
+*** You are running in headless mode.
+Gtk-Message: 16:25:39.081: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932339280	Marionette	INFO	Marionette enabled
+1672932339283	Marionette	INFO	Listening on port 46337
+WebDriver BiDi listening on ws://127.0.0.1:42451
+Read port: 46337
+1672932339492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuAHygt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42451/devtools/browser/a14e9e0f-b72c-4279-be51-5e04a5d8da4f
+1672932341675	Marionette	INFO	Stopped listening on port 46337
+1672932342512	geckodriver	INFO	Listening on 127.0.0.1:55855
+1672932342992	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45947" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileUPXEG8"
+*** You are running in headless mode.
+Gtk-Message: 16:25:43.009: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932343207	Marionette	INFO	Marionette enabled
+1672932343210	Marionette	INFO	Listening on port 39433
+WebDriver BiDi listening on ws://127.0.0.1:45947
+Read port: 39433
+1672932343415	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUPXEG8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45947/devtools/browser/5e60438f-7b41-48ee-8951-315bdb7bd807
+1672932345600	Marionette	INFO	Stopped listening on port 39433
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932346462	geckodriver	INFO	Listening on 127.0.0.1:34055
+1672932346944	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33121" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVne2Hi"
+*** You are running in headless mode.
+Gtk-Message: 16:25:46.966: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932347157	Marionette	INFO	Marionette enabled
+1672932347160	Marionette	INFO	Listening on port 37013
+WebDriver BiDi listening on ws://127.0.0.1:33121
+Read port: 37013
+1672932347370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVne2Hi/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33121/devtools/browser/68bcc8f1-b84f-400d-92ba-a6c123d9f1c4
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932349479	Marionette	INFO	Stopped listening on port 37013
+1672932350417	geckodriver	INFO	Listening on 127.0.0.1:47637
+1672932350905	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "44379" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebDURSE"
+*** You are running in headless mode.
+Gtk-Message: 16:25:50.923: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932351120	Marionette	INFO	Marionette enabled
+1672932351122	Marionette	INFO	Listening on port 34465
+WebDriver BiDi listening on ws://127.0.0.1:44379
+Read port: 34465
+1672932351329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebDURSE/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:44379/devtools/browser/bd8f8029-fc0e-49fb-9fcf-3db6ca89b3df
+1672932353434	geckodriver	INFO	Listening on 127.0.0.1:59919
+1672932353912	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHCMFhx"
+*** You are running in headless mode.
+Gtk-Message: 16:25:53.931: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932354133	Marionette	INFO	Marionette enabled
+1672932354136	Marionette	INFO	Listening on port 41785
+WebDriver BiDi listening on ws://127.0.0.1:47189
+Read port: 41785
+1672932354345	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHCMFhx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47189/devtools/browser/bab14946-6684-4df5-bcc4-6274abb62c18
+1672932357471	geckodriver	INFO	Listening on 127.0.0.1:36413
+1672932357956	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52649" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW4MqRe"
+*** You are running in headless mode.
+Gtk-Message: 16:25:57.975: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932358174	Marionette	INFO	Marionette enabled
+1672932358177	Marionette	INFO	Listening on port 41709
+WebDriver BiDi listening on ws://127.0.0.1:52649
+Read port: 41709
+1672932358382	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW4MqRe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52649/devtools/browser/337b5d29-238c-463d-bb6a-b2f62455ca6b
+1672932360431	geckodriver	INFO	Listening on 127.0.0.1:54807
+1672932360912	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewcjV4L"
+*** You are running in headless mode.
+Gtk-Message: 16:26:00.929: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932361129	Marionette	INFO	Marionette enabled
+1672932361132	Marionette	INFO	Listening on port 40737
+WebDriver BiDi listening on ws://127.0.0.1:56047
+Read port: 40737
+1672932361360	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewcjV4L/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56047/devtools/browser/3211f446-9dde-48fd-9e52-7ab983db4585
+1672932364483	geckodriver	INFO	Listening on 127.0.0.1:38795
+1672932364964	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58567" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileE5o7mJ"
+*** You are running in headless mode.
+Gtk-Message: 16:26:04.983: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932365181	Marionette	INFO	Marionette enabled
+1672932365184	Marionette	INFO	Listening on port 39017
+WebDriver BiDi listening on ws://127.0.0.1:58567
+Read port: 39017
+1672932365392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileE5o7mJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58567/devtools/browser/689e850e-604a-4331-abb1-2de097055a77
+1672932367548	geckodriver	INFO	Listening on 127.0.0.1:59119
+1672932368028	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "34605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK9uCQW"
+*** You are running in headless mode.
+Gtk-Message: 16:26:08.047: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932368247	Marionette	INFO	Marionette enabled
+1672932368250	Marionette	INFO	Listening on port 39061
+WebDriver BiDi listening on ws://127.0.0.1:34605
+Read port: 39061
+1672932368462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK9uCQW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:34605/devtools/browser/ac7c29ff-a846-4343-9237-cd61be963248
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932371617	geckodriver	INFO	Listening on 127.0.0.1:40819
+1672932372100	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "53673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewzYeB7"
+*** You are running in headless mode.
+Gtk-Message: 16:26:12.118: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932372330	Marionette	INFO	Marionette enabled
+1672932372333	Marionette	INFO	Listening on port 39103
+WebDriver BiDi listening on ws://127.0.0.1:53673
+Read port: 39103
+1672932372530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewzYeB7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53673/devtools/browser/35955983-e5b0-4c1e-8139-85fd4dda2017
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932374736	geckodriver	INFO	Listening on 127.0.0.1:47625
+1672932375220	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "41773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVYbNTz"
+*** You are running in headless mode.
+Gtk-Message: 16:26:15.238: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932375441	Marionette	INFO	Marionette enabled
+1672932375443	Marionette	INFO	Listening on port 35339
+WebDriver BiDi listening on ws://127.0.0.1:41773
+Read port: 35339
+1672932375654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVYbNTz/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41773/devtools/browser/5c476729-d07d-497e-b518-2281a8c5ff06
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932378822	Marionette	INFO	Stopped listening on port 35339
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932379349	geckodriver	INFO	Listening on 127.0.0.1:43507
+1672932379832	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58051" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesVLjVY"
+*** You are running in headless mode.
+Gtk-Message: 16:26:19.851: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932380046	Marionette	INFO	Marionette enabled
+1672932380049	Marionette	INFO	Listening on port 36529
+WebDriver BiDi listening on ws://127.0.0.1:58051
+Read port: 36529
+1672932380254	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesVLjVY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58051/devtools/browser/3aa9eb3d-4f01-4264-b8a0-d2d35034fd38
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932382341	Marionette	INFO	Stopped listening on port 36529
+1672932383275	geckodriver	INFO	Listening on 127.0.0.1:50871
+1672932383756	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaeoXW7"
+*** You are running in headless mode.
+Gtk-Message: 16:26:23.775: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932383972	Marionette	INFO	Marionette enabled
+1672932383975	Marionette	INFO	Listening on port 46351
+WebDriver BiDi listening on ws://127.0.0.1:47799
+Read port: 46351
+1672932384176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaeoXW7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47799/devtools/browser/923ed152-b60a-41b3-a436-a5d7c1762cb0
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932386233	Marionette	INFO	Stopped listening on port 46351
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932387161	geckodriver	INFO	Listening on 127.0.0.1:41059
+1672932387644	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "50839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyZyQcG"
+*** You are running in headless mode.
+Gtk-Message: 16:26:27.663: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932387858	Marionette	INFO	Marionette enabled
+1672932387861	Marionette	INFO	Listening on port 36547
+WebDriver BiDi listening on ws://127.0.0.1:50839
+Read port: 36547
+1672932388073	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyZyQcG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50839/devtools/browser/923bc04b-387c-431a-865e-f8bda6dac9ac
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932390115	Marionette	INFO	Stopped listening on port 36547
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932391036	geckodriver	INFO	Listening on 127.0.0.1:60571
+1672932391512	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledD4NNx"
+*** You are running in headless mode.
+Gtk-Message: 16:26:31.533: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932391733	Marionette	INFO	Marionette enabled
+1672932391735	Marionette	INFO	Listening on port 33835
+WebDriver BiDi listening on ws://127.0.0.1:56877
+Read port: 33835
+1672932391955	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledD4NNx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56877/devtools/browser/b0ab751f-ff26-4b7b-8797-9ba55cdb50e2
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932394038	Marionette	INFO	Stopped listening on port 33835
+1672932394967	geckodriver	INFO	Listening on 127.0.0.1:56213
+1672932395444	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43579" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevLDhVY"
+*** You are running in headless mode.
+Gtk-Message: 16:26:35.464: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932395659	Marionette	INFO	Marionette enabled
+1672932395661	Marionette	INFO	Listening on port 35827
+WebDriver BiDi listening on ws://127.0.0.1:43579
+Read port: 35827
+1672932395859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevLDhVY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43579/devtools/browser/5cbb1ecd-309c-47db-a841-64341f1d8302
+1672932397899	Marionette	INFO	Stopped listening on port 35827
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932398828	geckodriver	INFO	Listening on 127.0.0.1:44267
+1672932399308	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "49015" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3rplQ6"
+*** You are running in headless mode.
+Gtk-Message: 16:26:39.326: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932399523	Marionette	INFO	Marionette enabled
+1672932399526	Marionette	INFO	Listening on port 37553
+WebDriver BiDi listening on ws://127.0.0.1:49015
+Read port: 37553
+1672932399755	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3rplQ6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49015/devtools/browser/ab324acc-beea-4a5b-9a22-11d532978d10
+1672932401994	Marionette	INFO	Stopped listening on port 37553
+1672932402728	geckodriver	INFO	Listening on 127.0.0.1:48359
+1672932403212	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45497" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehgRSAs"
+*** You are running in headless mode.
+Gtk-Message: 16:26:43.230: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932403428	Marionette	INFO	Marionette enabled
+1672932403431	Marionette	INFO	Listening on port 40021
+WebDriver BiDi listening on ws://127.0.0.1:45497
+Read port: 40021
+1672932403645	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehgRSAs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45497/devtools/browser/64421e4d-d149-4256-b537-b9bcc4c0beb1
+1672932405769	Marionette	INFO	Stopped listening on port 40021
+1672932406598	geckodriver	INFO	Listening on 127.0.0.1:58741
+1672932407080	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegtekwp"
+*** You are running in headless mode.
+Gtk-Message: 16:26:47.100: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932407295	Marionette	INFO	Marionette enabled
+1672932407298	Marionette	INFO	Listening on port 41293
+WebDriver BiDi listening on ws://127.0.0.1:47271
+Read port: 41293
+1672932407505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegtekwp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47271/devtools/browser/325c1b57-a3d3-410b-b1e5-0f60806484e2
+1672932409701	Marionette	INFO	Stopped listening on port 41293
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932410527	geckodriver	INFO	Listening on 127.0.0.1:43569
+1672932410991	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "41383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePGzTTQ"
+*** You are running in headless mode.
+Gtk-Message: 16:26:51.012: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932411216	Marionette	INFO	Marionette enabled
+1672932411219	Marionette	INFO	Listening on port 38177
+WebDriver BiDi listening on ws://127.0.0.1:41383
+Read port: 38177
+1672932411466	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePGzTTQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41383/devtools/browser/69562811-4f84-4bfa-a17e-748a9e58ab24
+1672932413597	Marionette	INFO	Stopped listening on port 38177
+1672932414431	geckodriver	INFO	Listening on 127.0.0.1:41941
+1672932414891	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33839" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM2PJJR"
+*** You are running in headless mode.
+Gtk-Message: 16:26:54.912: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932415124	Marionette	INFO	Marionette enabled
+1672932415127	Marionette	INFO	Listening on port 33757
+WebDriver BiDi listening on ws://127.0.0.1:33839
+Read port: 33757
+1672932415331	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM2PJJR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33839/devtools/browser/2b0975d0-e46d-4e6e-ac0a-8e69de0f82f8
+1672932417558	geckodriver	INFO	Listening on 127.0.0.1:37485
+1672932418040	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJd39t3"
+*** You are running in headless mode.
+Gtk-Message: 16:26:58.057: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932418266	Marionette	INFO	Marionette enabled
+1672932418268	Marionette	INFO	Listening on port 37877
+WebDriver BiDi listening on ws://127.0.0.1:46351
+Read port: 37877
+1672932418482	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJd39t3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46351/devtools/browser/e3074fc1-09bb-40f6-8155-56550fd09b7c
+1672932421616	Marionette	INFO	Stopped listening on port 37877
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932422137	geckodriver	INFO	Listening on 127.0.0.1:44573
+1672932422612	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33527" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6saPgH"
+*** You are running in headless mode.
+Gtk-Message: 16:27:02.629: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932422827	Marionette	INFO	Marionette enabled
+1672932422830	Marionette	INFO	Listening on port 44015
+WebDriver BiDi listening on ws://127.0.0.1:33527
+Read port: 44015
+1672932423045	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6saPgH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33527/devtools/browser/f8277db3-7648-4c8a-9258-e14b88905d99
+1672932425159	Marionette	INFO	Stopped listening on port 44015
+1672932425986	geckodriver	INFO	Listening on 127.0.0.1:38391
+1672932426467	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "40571" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilei45WS1"
+*** You are running in headless mode.
+Gtk-Message: 16:27:06.489: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932426693	Marionette	INFO	Marionette enabled
+1672932426696	Marionette	INFO	Listening on port 36707
+WebDriver BiDi listening on ws://127.0.0.1:40571
+Read port: 36707
+1672932426906	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilei45WS1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40571/devtools/browser/3387e81a-d239-4337-80a9-d99f83f9a679
+1672932429101	Marionette	INFO	Stopped listening on port 36707
+1672932429922	geckodriver	INFO	Listening on 127.0.0.1:33073
+1672932430405	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "38703" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWfCbwK"
+*** You are running in headless mode.
+Gtk-Message: 16:27:10.423: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932430631	Marionette	INFO	Marionette enabled
+1672932430633	Marionette	INFO	Listening on port 33517
+WebDriver BiDi listening on ws://127.0.0.1:38703
+Read port: 33517
+1672932430842	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWfCbwK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38703/devtools/browser/955ba7c6-c146-4ba1-aeac-9043503f7a10
+1672932433072	Marionette	INFO	Stopped listening on port 33517
+1672932433801	geckodriver	INFO	Listening on 127.0.0.1:39961
+1672932434280	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33413" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGo6G9c"
+*** You are running in headless mode.
+Gtk-Message: 16:27:14.299: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932434498	Marionette	INFO	Marionette enabled
+1672932434501	Marionette	INFO	Listening on port 35501
+WebDriver BiDi listening on ws://127.0.0.1:33413
+Read port: 35501
+1672932434700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGo6G9c/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33413/devtools/browser/20acc2f1-68c0-4ec4-8696-5f12b4baff13
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672932436889	Marionette	INFO	Stopped listening on port 35501
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932437723	geckodriver	INFO	Listening on 127.0.0.1:33613
+1672932438172	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "50381" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuu7RPn"
+*** You are running in headless mode.
+Gtk-Message: 16:27:18.190: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932438401	Marionette	INFO	Marionette enabled
+1672932438404	Marionette	INFO	Listening on port 33245
+WebDriver BiDi listening on ws://127.0.0.1:50381
+Read port: 33245
+1672932438623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuu7RPn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50381/devtools/browser/561aaa28-b54e-4436-9fe1-59c3fc965913
+1672932440941	Marionette	INFO	Stopped listening on port 33245
+1672932441673	geckodriver	INFO	Listening on 127.0.0.1:58755
+1672932442144	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "35335" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemJyn37"
+*** You are running in headless mode.
+Gtk-Message: 16:27:22.163: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932442391	Marionette	INFO	Marionette enabled
+1672932442394	Marionette	INFO	Listening on port 39995
+WebDriver BiDi listening on ws://127.0.0.1:35335
+Read port: 39995
+1672932442491	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemJyn37/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35335/devtools/browser/38765cb1-6bc0-4da9-a95c-aa33a5c39a25
+1672932444913	Marionette	INFO	Stopped listening on port 39995
+1672932445628	geckodriver	INFO	Listening on 127.0.0.1:47157
+1672932446112	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "40723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3Uvd02"
+*** You are running in headless mode.
+Gtk-Message: 16:27:26.132: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932446335	Marionette	INFO	Marionette enabled
+1672932446338	Marionette	INFO	Listening on port 33323
+WebDriver BiDi listening on ws://127.0.0.1:40723
+Read port: 33323
+1672932446540	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3Uvd02/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40723/devtools/browser/cc70f6cb-7bbe-47c3-87e9-5f7cc54935a7
+1672932448736	Marionette	INFO	Stopped listening on port 33323
+1672932968491	geckodriver	INFO	Listening on 127.0.0.1:35251
+1672932968968	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "40427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilet0l1Cw"
+*** You are running in headless mode.
+Gtk-Message: 16:36:08.985: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932969183	Marionette	INFO	Marionette enabled
+1672932969185	Marionette	INFO	Listening on port 44193
+WebDriver BiDi listening on ws://127.0.0.1:40427
+Read port: 44193
+1672932969396	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilet0l1Cw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40427/devtools/browser/25dbcb66-db2d-4504-94ef-c4a7026ea623
+1672932971451	Marionette	INFO	Stopped listening on port 44193
+1672932972369	geckodriver	INFO	Listening on 127.0.0.1:49281
+1672932972848	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewPQ1Td"
+*** You are running in headless mode.
+Gtk-Message: 16:36:12.868: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932973063	Marionette	INFO	Marionette enabled
+1672932973066	Marionette	INFO	Listening on port 43809
+WebDriver BiDi listening on ws://127.0.0.1:58021
+Read port: 43809
+1672932973282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewPQ1Td/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58021/devtools/browser/f4e8bbe8-74b5-4c8e-8b51-815aac913e0b
+1672932975485	Marionette	INFO	Stopped listening on port 43809
+1672932976309	geckodriver	INFO	Listening on 127.0.0.1:55475
+1672932976772	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58539" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIKLx0y"
+*** You are running in headless mode.
+Gtk-Message: 16:36:16.791: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932976989	Marionette	INFO	Marionette enabled
+1672932976991	Marionette	INFO	Listening on port 46429
+WebDriver BiDi listening on ws://127.0.0.1:58539
+Read port: 46429
+1672932977197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIKLx0y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58539/devtools/browser/20b12105-6333-4111-b6c8-e58a9bb331bf
+1672932979276	Marionette	INFO	Stopped listening on port 46429
+1672932980197	geckodriver	INFO	Listening on 127.0.0.1:34601
+1672932980680	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "36877" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileNsvYp9"
+*** You are running in headless mode.
+Gtk-Message: 16:36:20.697: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932980893	Marionette	INFO	Marionette enabled
+1672932980895	Marionette	INFO	Listening on port 42953
+WebDriver BiDi listening on ws://127.0.0.1:36877
+Read port: 42953
+1672932981106	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNsvYp9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36877/devtools/browser/7ff5c26f-63df-424e-bbb7-625b41b4d467
+1672932983218	Marionette	INFO	Stopped listening on port 42953
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672932984151	geckodriver	INFO	Listening on 127.0.0.1:43231
+1672932984632	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "59549" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFb6v9M"
+*** You are running in headless mode.
+Gtk-Message: 16:36:24.652: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932984845	Marionette	INFO	Marionette enabled
+1672932984847	Marionette	INFO	Listening on port 38897
+WebDriver BiDi listening on ws://127.0.0.1:59549
+Read port: 38897
+1672932985052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFb6v9M/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59549/devtools/browser/566e8a37-df55-408b-ab8a-7d1ca09d43ff
+1672932987201	Marionette	INFO	Stopped listening on port 38897
+1672932988034	geckodriver	INFO	Listening on 127.0.0.1:48413
+1672932988494	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIgS9P8"
+*** You are running in headless mode.
+Gtk-Message: 16:36:28.513: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932988708	Marionette	INFO	Marionette enabled
+1672932988710	Marionette	INFO	Listening on port 46575
+WebDriver BiDi listening on ws://127.0.0.1:33835
+Read port: 46575
+1672932988914	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIgS9P8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33835/devtools/browser/f2c35c48-77a8-41aa-851b-f577027fe0ab
+1672932991071	Marionette	INFO	Stopped listening on port 46575
+1672932991900	geckodriver	INFO	Listening on 127.0.0.1:37953
+1672932992383	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "37615" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Ua8Qw"
+*** You are running in headless mode.
+Gtk-Message: 16:36:32.400: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932992596	Marionette	INFO	Marionette enabled
+1672932992598	Marionette	INFO	Listening on port 42587
+WebDriver BiDi listening on ws://127.0.0.1:37615
+Read port: 42587
+1672932992802	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Ua8Qw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37615/devtools/browser/13f58028-6d17-460e-ba83-78acb34a3ed3
+1672932994986	geckodriver	INFO	Listening on 127.0.0.1:46217
+1672932995468	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58293" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewI94WY"
+*** You are running in headless mode.
+Gtk-Message: 16:36:35.487: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932995686	Marionette	INFO	Marionette enabled
+1672932995689	Marionette	INFO	Listening on port 37105
+WebDriver BiDi listening on ws://127.0.0.1:58293
+Read port: 37105
+1672932995894	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewI94WY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58293/devtools/browser/c63dcd8e-a59e-45f3-8e26-bb58aea2b2e0
+1672932999010	geckodriver	INFO	Listening on 127.0.0.1:56847
+1672932999484	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "57107" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLSrzrn"
+*** You are running in headless mode.
+Gtk-Message: 16:36:39.502: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672932999694	Marionette	INFO	Marionette enabled
+1672932999696	Marionette	INFO	Listening on port 45473
+WebDriver BiDi listening on ws://127.0.0.1:57107
+Read port: 45473
+1672932999897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLSrzrn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57107/devtools/browser/40cc1373-61ac-4839-899d-e72a59932f73
+1672933002068	geckodriver	INFO	Listening on 127.0.0.1:56505
+1672933002548	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1uswBp"
+*** You are running in headless mode.
+Gtk-Message: 16:36:42.563: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933002758	Marionette	INFO	Marionette enabled
+1672933002760	Marionette	INFO	Listening on port 42203
+WebDriver BiDi listening on ws://127.0.0.1:43021
+Read port: 42203
+1672933002969	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1uswBp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43021/devtools/browser/ef2c33ce-c8c5-4230-a415-1185fde5e456
+1672933006116	geckodriver	INFO	Listening on 127.0.0.1:59505
+1672933006600	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "55541" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileIOS09A"
+*** You are running in headless mode.
+Gtk-Message: 16:36:46.618: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933006813	Marionette	INFO	Marionette enabled
+1672933006815	Marionette	INFO	Listening on port 34351
+WebDriver BiDi listening on ws://127.0.0.1:55541
+Read port: 34351
+1672933007027	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileIOS09A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55541/devtools/browser/c2954730-adec-42a6-994d-8a2afc55b509
+1672933009154	Marionette	INFO	Stopped listening on port 34351
+1672933010090	geckodriver	INFO	Listening on 127.0.0.1:48315
+1672933010568	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "42941" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileendh7A"
+*** You are running in headless mode.
+Gtk-Message: 16:36:50.587: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933010783	Marionette	INFO	Marionette enabled
+1672933010785	Marionette	INFO	Listening on port 32891
+WebDriver BiDi listening on ws://127.0.0.1:42941
+Read port: 32891
+1672933010988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileendh7A/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42941/devtools/browser/1acdd383-72dd-41cd-a35b-038cb3cb1259
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933013155	Marionette	INFO	Stopped listening on port 32891
+1672933013974	geckodriver	INFO	Listening on 127.0.0.1:36975
+1672933014456	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "60315" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Tpgz4"
+*** You are running in headless mode.
+Gtk-Message: 16:36:54.475: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933014671	Marionette	INFO	Marionette enabled
+1672933014673	Marionette	INFO	Listening on port 42797
+WebDriver BiDi listening on ws://127.0.0.1:60315
+Read port: 42797
+1672933014916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Tpgz4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60315/devtools/browser/a0192065-a269-43e1-aa64-84f6a57a4a4d
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933017009	geckodriver	INFO	Listening on 127.0.0.1:55997
+1672933017492	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46531" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKuLVMY"
+*** You are running in headless mode.
+Gtk-Message: 16:36:57.507: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933017706	Marionette	INFO	Marionette enabled
+1672933017708	Marionette	INFO	Listening on port 37553
+WebDriver BiDi listening on ws://127.0.0.1:46531
+Read port: 37553
+1672933017926	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKuLVMY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46531/devtools/browser/701ad8be-9821-4a51-9644-79fa5195ef27
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933021058	Marionette	INFO	Stopped listening on port 37553
+1672933021571	geckodriver	INFO	Listening on 127.0.0.1:55363
+1672933022056	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHtbkRD"
+*** You are running in headless mode.
+Gtk-Message: 16:37:02.075: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933022269	Marionette	INFO	Marionette enabled
+1672933022272	Marionette	INFO	Listening on port 40845
+WebDriver BiDi listening on ws://127.0.0.1:33533
+Read port: 40845
+1672933022479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHtbkRD/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33533/devtools/browser/adc6d796-e8c2-43c4-acae-6838b2e7b8bf
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933024637	Marionette	INFO	Stopped listening on port 40845
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933025458	geckodriver	INFO	Listening on 127.0.0.1:34745
+1672933025940	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45109" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHhJIc1"
+*** You are running in headless mode.
+Gtk-Message: 16:37:05.958: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933026156	Marionette	INFO	Marionette enabled
+1672933026158	Marionette	INFO	Listening on port 42561
+WebDriver BiDi listening on ws://127.0.0.1:45109
+Read port: 42561
+1672933026368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHhJIc1/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45109/devtools/browser/2e1d80e6-9b7f-4aab-ab84-745eb964b689
+1672933028573	geckodriver	INFO	Listening on 127.0.0.1:54611
+1672933029052	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewajofp"
+*** You are running in headless mode.
+Gtk-Message: 16:37:09.070: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933029268	Marionette	INFO	Marionette enabled
+1672933029271	Marionette	INFO	Listening on port 43049
+WebDriver BiDi listening on ws://127.0.0.1:33047
+Read port: 43049
+1672933029478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewajofp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33047/devtools/browser/1262eda2-8578-421b-8ba0-9fb935a54d14
+1672933032688	geckodriver	INFO	Listening on 127.0.0.1:50767
+1672933033164	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGDlts9"
+*** You are running in headless mode.
+Gtk-Message: 16:37:13.181: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933033376	Marionette	INFO	Marionette enabled
+1672933033379	Marionette	INFO	Listening on port 46199
+WebDriver BiDi listening on ws://127.0.0.1:54377
+Read port: 46199
+1672933033618	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGDlts9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54377/devtools/browser/5658df2f-fb6b-4341-9490-c1cd6a8cf195
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933035682	Marionette	INFO	Stopped listening on port 46199
+1672933036603	geckodriver	INFO	Listening on 127.0.0.1:42473
+1672933037084	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1oVJf6"
+*** You are running in headless mode.
+Gtk-Message: 16:37:17.103: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933037303	Marionette	INFO	Marionette enabled
+1672933037306	Marionette	INFO	Listening on port 42611
+WebDriver BiDi listening on ws://127.0.0.1:45617
+Read port: 42611
+1672933037515	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1oVJf6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45617/devtools/browser/6b307f62-6f14-4140-ab72-18ddf816c9ba
+1672933039752	Marionette	INFO	Stopped listening on port 42611
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933040473	geckodriver	INFO	Listening on 127.0.0.1:45133
+1672933040956	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileV51yDl"
+*** You are running in headless mode.
+Gtk-Message: 16:37:20.975: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933041170	Marionette	INFO	Marionette enabled
+1672933041172	Marionette	INFO	Listening on port 42941
+WebDriver BiDi listening on ws://127.0.0.1:54581
+Read port: 42941
+1672933041379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileV51yDl/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54581/devtools/browser/309db374-eb5c-4936-832c-57cb6ac4a10e
+1672933043463	Marionette	INFO	Stopped listening on port 42941
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933044375	geckodriver	INFO	Listening on 127.0.0.1:45181
+1672933044856	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "38975" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWUcP7I"
+*** You are running in headless mode.
+Gtk-Message: 16:37:24.876: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933045069	Marionette	INFO	Marionette enabled
+1672933045072	Marionette	INFO	Listening on port 42535
+WebDriver BiDi listening on ws://127.0.0.1:38975
+Read port: 42535
+1672933045279	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWUcP7I/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:38975/devtools/browser/45575c5c-8f03-4492-bcf3-4c587ceedd65
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933047510	geckodriver	INFO	Listening on 127.0.0.1:34141
+1672933047992	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "48597" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4mUxL4"
+*** You are running in headless mode.
+Gtk-Message: 16:37:28.011: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933048208	Marionette	INFO	Marionette enabled
+1672933048211	Marionette	INFO	Listening on port 37893
+WebDriver BiDi listening on ws://127.0.0.1:48597
+Read port: 37893
+1672933048431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4mUxL4/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48597/devtools/browser/d722aebe-fd43-48a9-8250-2bc8ac5a3cdf
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933051625	geckodriver	INFO	Listening on 127.0.0.1:35473
+1672933052104	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemVOb1p"
+*** You are running in headless mode.
+Gtk-Message: 16:37:32.123: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933052316	Marionette	INFO	Marionette enabled
+1672933052318	Marionette	INFO	Listening on port 43213
+WebDriver BiDi listening on ws://127.0.0.1:45017
+Read port: 43213
+1672933052525	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemVOb1p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45017/devtools/browser/830a8d55-efbc-4dce-9d28-2783a59eafa2
+1672933054684	Marionette	INFO	Stopped listening on port 43213
+1672933055611	geckodriver	INFO	Listening on 127.0.0.1:42343
+1672933056088	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileF69rPx"
+*** You are running in headless mode.
+Gtk-Message: 16:37:36.103: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933056303	Marionette	INFO	Marionette enabled
+1672933056305	Marionette	INFO	Listening on port 33925
+WebDriver BiDi listening on ws://127.0.0.1:46699
+Read port: 33925
+1672933056513	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileF69rPx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46699/devtools/browser/000bc24a-73c6-4717-a711-ecd5132e8f3a
+1672933058674	Marionette	INFO	Stopped listening on port 33925
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933059499	geckodriver	INFO	Listening on 127.0.0.1:60653
+1672933059975	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "44987" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYExo5u"
+*** You are running in headless mode.
+Gtk-Message: 16:37:39.992: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933060194	Marionette	INFO	Marionette enabled
+1672933060197	Marionette	INFO	Listening on port 33677
+WebDriver BiDi listening on ws://127.0.0.1:44987
+Read port: 33677
+1672933060407	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYExo5u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44987/devtools/browser/f2c55e21-fbe2-4aa2-984f-2d56780ab8e1
+1672933062477	Marionette	INFO	Stopped listening on port 33677
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933063396	geckodriver	INFO	Listening on 127.0.0.1:34121
+1672933063876	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "57881" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMjQ1QS"
+*** You are running in headless mode.
+Gtk-Message: 16:37:43.894: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933064097	Marionette	INFO	Marionette enabled
+1672933064100	Marionette	INFO	Listening on port 38095
+WebDriver BiDi listening on ws://127.0.0.1:57881
+Read port: 38095
+1672933064302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMjQ1QS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57881/devtools/browser/b36aae3e-731e-47ae-b2a6-e0cff3c9ef36
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933066389	Marionette	INFO	Stopped listening on port 38095
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933067310	geckodriver	INFO	Listening on 127.0.0.1:39213
+1672933067792	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "35957" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile90MKua"
+*** You are running in headless mode.
+Gtk-Message: 16:37:47.812: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933068018	Marionette	INFO	Marionette enabled
+1672933068020	Marionette	INFO	Listening on port 37115
+WebDriver BiDi listening on ws://127.0.0.1:35957
+Read port: 37115
+1672933068274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile90MKua/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:35957/devtools/browser/77cdb069-55fb-4722-a25f-1da05bae656d
+1672933070509	geckodriver	INFO	Listening on 127.0.0.1:39741
+1672933070988	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46049" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFnEz5s"
+*** You are running in headless mode.
+Gtk-Message: 16:37:51.007: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933071200	Marionette	INFO	Marionette enabled
+1672933071202	Marionette	INFO	Listening on port 35679
+WebDriver BiDi listening on ws://127.0.0.1:46049
+Read port: 35679
+1672933071431	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFnEz5s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46049/devtools/browser/285ed1d0-40ff-48f8-9a7d-f1db6cb42347
+1672933074652	geckodriver	INFO	Listening on 127.0.0.1:58943
+1672933075102	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefhB8PU"
+*** You are running in headless mode.
+Gtk-Message: 16:37:55.119: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933075323	Marionette	INFO	Marionette enabled
+1672933075326	Marionette	INFO	Listening on port 45989
+WebDriver BiDi listening on ws://127.0.0.1:54919
+Read port: 45989
+1672933075534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefhB8PU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54919/devtools/browser/4636b0aa-b9f2-4e7b-a826-e5aa09e54872
+1672933077608	geckodriver	INFO	Listening on 127.0.0.1:36427
+1672933078088	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "39399" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKDAf2F"
+*** You are running in headless mode.
+Gtk-Message: 16:37:58.112: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933078312	Marionette	INFO	Marionette enabled
+1672933078314	Marionette	INFO	Listening on port 33291
+WebDriver BiDi listening on ws://127.0.0.1:39399
+Read port: 33291
+1672933078539	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKDAf2F/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:39399/devtools/browser/2d1e5753-d4d1-4c94-b08d-427bc850aee0
+1672933081689	geckodriver	INFO	Listening on 127.0.0.1:35101
+1672933082168	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47435" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileK0OmVk"
+*** You are running in headless mode.
+Gtk-Message: 16:38:02.186: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933082385	Marionette	INFO	Marionette enabled
+1672933082387	Marionette	INFO	Listening on port 36187
+WebDriver BiDi listening on ws://127.0.0.1:47435
+Read port: 36187
+1672933082603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileK0OmVk/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47435/devtools/browser/c121f7fd-cf68-4f65-8854-ef933ece223d
+1672933084684	Marionette	INFO	Stopped listening on port 36187
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933085615	geckodriver	INFO	Listening on 127.0.0.1:41551
+1672933086100	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0IdOQE"
+*** You are running in headless mode.
+Gtk-Message: 16:38:06.119: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933086330	Marionette	INFO	Marionette enabled
+1672933086333	Marionette	INFO	Listening on port 35177
+WebDriver BiDi listening on ws://127.0.0.1:52233
+Read port: 35177
+1672933086534	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0IdOQE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52233/devtools/browser/c4543103-742e-4ab2-8b6b-7cabe507725b
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933088637	Marionette	INFO	Stopped listening on port 35177
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933089556	geckodriver	INFO	Listening on 127.0.0.1:38459
+1672933090040	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "41623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile4NfPxR"
+*** You are running in headless mode.
+Gtk-Message: 16:38:10.056: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933090254	Marionette	INFO	Marionette enabled
+1672933090256	Marionette	INFO	Listening on port 42211
+WebDriver BiDi listening on ws://127.0.0.1:41623
+Read port: 42211
+1672933090462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile4NfPxR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:41623/devtools/browser/cbe314bc-5f4b-4660-b6f5-ac2f3b1f8f51
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933092775	geckodriver	INFO	Listening on 127.0.0.1:54791
+1672933093256	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "55181" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemzh4pB"
+*** You are running in headless mode.
+Gtk-Message: 16:38:13.272: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933093470	Marionette	INFO	Marionette enabled
+1672933093472	Marionette	INFO	Listening on port 33359
+WebDriver BiDi listening on ws://127.0.0.1:55181
+Read port: 33359
+1672933093697	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemzh4pB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55181/devtools/browser/a283a04f-03b0-49f8-a388-ce3166404e4e
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933097083	geckodriver	INFO	Listening on 127.0.0.1:44237
+1672933097568	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45183" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6pAIEW"
+*** You are running in headless mode.
+Gtk-Message: 16:38:17.584: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933097784	Marionette	INFO	Marionette enabled
+1672933097787	Marionette	INFO	Listening on port 45309
+WebDriver BiDi listening on ws://127.0.0.1:45183
+Read port: 45309
+1672933097990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6pAIEW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45183/devtools/browser/99888fd5-3993-408a-b2e0-fbf856ceeba6
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933100258	Marionette	INFO	Stopped listening on port 45309
+1672933101069	geckodriver	INFO	Listening on 127.0.0.1:49345
+1672933101544	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "40945" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemsvK9s"
+*** You are running in headless mode.
+Gtk-Message: 16:38:21.561: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933101770	Marionette	INFO	Marionette enabled
+1672933101773	Marionette	INFO	Listening on port 32967
+WebDriver BiDi listening on ws://127.0.0.1:40945
+Read port: 32967
+1672933101977	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemsvK9s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:40945/devtools/browser/dc36cb93-1cc8-4da1-9f79-ce06647385d7
+1672933104037	Marionette	INFO	Stopped listening on port 32967
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933104967	geckodriver	INFO	Listening on 127.0.0.1:40839
+1672933105444	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "55163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAphset"
+*** You are running in headless mode.
+Gtk-Message: 16:38:25.464: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933105666	Marionette	INFO	Marionette enabled
+1672933105669	Marionette	INFO	Listening on port 44907
+WebDriver BiDi listening on ws://127.0.0.1:55163
+Read port: 44907
+1672933105877	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAphset/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55163/devtools/browser/ceca6131-b04b-41f2-bcd4-442e760b267d
+1672933108047	geckodriver	INFO	Listening on 127.0.0.1:33003
+1672933108528	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52601" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDVIh1d"
+*** You are running in headless mode.
+Gtk-Message: 16:38:28.546: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933108743	Marionette	INFO	Marionette enabled
+1672933108746	Marionette	INFO	Listening on port 33351
+WebDriver BiDi listening on ws://127.0.0.1:52601
+Read port: 33351
+1672933108952	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDVIh1d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52601/devtools/browser/73e2aa04-8d57-4e56-a10a-f3ce88f15e7b
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933112150	Marionette	INFO	Stopped listening on port 33351
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933112668	geckodriver	INFO	Listening on 127.0.0.1:49993
+1672933113140	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileM90l3D"
+*** You are running in headless mode.
+Gtk-Message: 16:38:33.158: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933113356	Marionette	INFO	Marionette enabled
+1672933113359	Marionette	INFO	Listening on port 42273
+WebDriver BiDi listening on ws://127.0.0.1:54189
+Read port: 42273
+1672933113565	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM90l3D/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:54189/devtools/browser/3f03bfb1-b8f0-41c7-9688-649a64855585
+1672933115823	geckodriver	INFO	Listening on 127.0.0.1:48071
+1672933116304	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46707" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLPBchp"
+*** You are running in headless mode.
+Gtk-Message: 16:38:36.322: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933116520	Marionette	INFO	Marionette enabled
+1672933116522	Marionette	INFO	Listening on port 46619
+WebDriver BiDi listening on ws://127.0.0.1:46707
+Read port: 46619
+1672933116730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLPBchp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46707/devtools/browser/00f130f1-e2ae-4110-b0b6-a3517b290277
+1672933119854	Marionette	INFO	Stopped listening on port 46619
+1672933120372	geckodriver	INFO	Listening on 127.0.0.1:47199
+1672933120852	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "37789" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiles7wUXE"
+*** You are running in headless mode.
+Gtk-Message: 16:38:40.871: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933121077	Marionette	INFO	Marionette enabled
+1672933121080	Marionette	INFO	Listening on port 36425
+WebDriver BiDi listening on ws://127.0.0.1:37789
+Read port: 36425
+1672933121291	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiles7wUXE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37789/devtools/browser/76c35c59-3a2e-45a9-a9af-9737680bf7a0
+1672933123475	geckodriver	INFO	Listening on 127.0.0.1:60259
+1672933123956	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "36429" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile0Rpx1u"
+*** You are running in headless mode.
+Gtk-Message: 16:38:43.972: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933124168	Marionette	INFO	Marionette enabled
+1672933124171	Marionette	INFO	Listening on port 37321
+WebDriver BiDi listening on ws://127.0.0.1:36429
+Read port: 37321
+1672933124375	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0Rpx1u/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:36429/devtools/browser/c45de047-040d-4365-90d8-7c73eea15a02
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933127565	Marionette	INFO	Stopped listening on port 37321
+1672933128098	geckodriver	INFO	Listening on 127.0.0.1:57557
+1672933128554	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46397" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileyetBzo"
+*** You are running in headless mode.
+Gtk-Message: 16:38:48.574: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933128775	Marionette	INFO	Marionette enabled
+1672933128777	Marionette	INFO	Listening on port 39019
+WebDriver BiDi listening on ws://127.0.0.1:46397
+Read port: 39019
+1672933128990	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyetBzo/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:46397/devtools/browser/dce5582e-b96a-432e-ba0f-f0cc27e2cf13
+1672933131128	geckodriver	INFO	Listening on 127.0.0.1:34165
+1672933131612	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56935" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXOcDtL"
+*** You are running in headless mode.
+Gtk-Message: 16:38:51.628: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933131828	Marionette	INFO	Marionette enabled
+1672933131830	Marionette	INFO	Listening on port 44945
+WebDriver BiDi listening on ws://127.0.0.1:56935
+Read port: 44945
+1672933132043	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXOcDtL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56935/devtools/browser/0171b389-c92f-4338-97ce-c35b4d98f0b0
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933135174	Marionette	INFO	Stopped listening on port 44945
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933135712	geckodriver	INFO	Listening on 127.0.0.1:58697
+1672933136171	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "56075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileZDYF1y"
+*** You are running in headless mode.
+Gtk-Message: 16:38:56.188: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933136390	Marionette	INFO	Marionette enabled
+1672933136393	Marionette	INFO	Listening on port 34877
+WebDriver BiDi listening on ws://127.0.0.1:56075
+Read port: 34877
+1672933136602	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileZDYF1y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56075/devtools/browser/37ede132-875b-4640-bde4-ba2f32ffc590
+1672933138850	geckodriver	INFO	Listening on 127.0.0.1:54245
+1672933139332	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "59313" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerP5zvY"
+*** You are running in headless mode.
+Gtk-Message: 16:38:59.348: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933139552	Marionette	INFO	Marionette enabled
+1672933139554	Marionette	INFO	Listening on port 39715
+WebDriver BiDi listening on ws://127.0.0.1:59313
+Read port: 39715
+1672933139769	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerP5zvY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59313/devtools/browser/1ec4b65c-1b9d-46bb-a119-b55b8e21f953
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933143061	Marionette	INFO	Stopped listening on port 39715
+1672933143577	geckodriver	INFO	Listening on 127.0.0.1:32873
+1672933144060	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "54233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDNkvQt"
+*** You are running in headless mode.
+Gtk-Message: 16:39:04.079: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933144284	Marionette	INFO	Marionette enabled
+1672933144286	Marionette	INFO	Listening on port 34683
+WebDriver BiDi listening on ws://127.0.0.1:54233
+Read port: 34683
+1672933144499	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDNkvQt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54233/devtools/browser/26ba4c5e-c362-4f34-a4ad-50dde50cf139
+1672933146703	geckodriver	INFO	Listening on 127.0.0.1:58291
+1672933147184	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "49689" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9HZGwI"
+*** You are running in headless mode.
+Gtk-Message: 16:39:07.209: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933147441	Marionette	INFO	Marionette enabled
+1672933147444	Marionette	INFO	Listening on port 41373
+Read port: 41373
+WebDriver BiDi listening on ws://127.0.0.1:49689
+1672933147523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9HZGwI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49689/devtools/browser/40fab44f-633e-47d9-9fe2-b9b7e5d4df4a
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933151058	geckodriver	INFO	Listening on 127.0.0.1:52859
+1672933151536	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "45807" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehz7Gme"
+*** You are running in headless mode.
+Gtk-Message: 16:39:11.555: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933151759	Marionette	INFO	Marionette enabled
+1672933151762	Marionette	INFO	Listening on port 41439
+WebDriver BiDi listening on ws://127.0.0.1:45807
+Read port: 41439
+1672933151976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehz7Gme/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:45807/devtools/browser/3963cb5f-0457-4e93-97fd-9482ee41822f
+1672933154100	geckodriver	INFO	Listening on 127.0.0.1:40771
+1672933154575	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "57771" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileia4Lme"
+*** You are running in headless mode.
+Gtk-Message: 16:39:14.595: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933154807	Marionette	INFO	Marionette enabled
+1672933154809	Marionette	INFO	Listening on port 36035
+WebDriver BiDi listening on ws://127.0.0.1:57771
+Read port: 36035
+1672933155021	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileia4Lme/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57771/devtools/browser/0a075e6d-eec9-41f7-8ddc-67193f1dd325
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933158444	Marionette	INFO	Stopped listening on port 36035
+1672933158963	geckodriver	INFO	Listening on 127.0.0.1:37463
+1672933159444	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "44583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8VqHfe"
+*** You are running in headless mode.
+Gtk-Message: 16:39:19.462: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933159663	Marionette	INFO	Marionette enabled
+1672933159665	Marionette	INFO	Listening on port 40955
+WebDriver BiDi listening on ws://127.0.0.1:44583
+Read port: 40955
+1672933159876	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8VqHfe/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:44583/devtools/browser/218116ed-cba9-4b21-9f64-4d3b9c8e7818
+1672933162184	Marionette	INFO	Stopped listening on port 40955
+1672933162840	geckodriver	INFO	Listening on 127.0.0.1:39685
+1672933163300	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "53847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilellCLbK"
+*** You are running in headless mode.
+Gtk-Message: 16:39:23.318: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933163566	Marionette	INFO	Marionette enabled
+1672933163570	Marionette	INFO	Listening on port 40219
+Read port: 40219
+WebDriver BiDi listening on ws://127.0.0.1:53847
+1672933163650	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilellCLbK/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:53847/devtools/browser/35dd0360-0723-4d80-8b50-fc7a234b5893
+1672933166335	Marionette	INFO	Stopped listening on port 40219
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933166855	geckodriver	INFO	Listening on 127.0.0.1:34187
+1672933167328	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52327" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLBI647"
+*** You are running in headless mode.
+Gtk-Message: 16:39:27.346: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933167554	Marionette	INFO	Marionette enabled
+1672933167557	Marionette	INFO	Listening on port 46153
+WebDriver BiDi listening on ws://127.0.0.1:52327
+Read port: 46153
+1672933167768	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLBI647/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52327/devtools/browser/6515a9d6-b1fc-4772-838b-6c73254da91c
+1672933170074	geckodriver	INFO	Listening on 127.0.0.1:34945
+1672933170556	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "42115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJm5DTE"
+*** You are running in headless mode.
+Gtk-Message: 16:39:30.574: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933170777	Marionette	INFO	Marionette enabled
+1672933170779	Marionette	INFO	Listening on port 33915
+WebDriver BiDi listening on ws://127.0.0.1:42115
+Read port: 33915
+1672933170991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJm5DTE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42115/devtools/browser/2adf1154-ae59-44aa-a3fd-9a3fd304cb24
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933174275	geckodriver	INFO	Listening on 127.0.0.1:51659
+1672933174748	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQaAZYX"
+*** You are running in headless mode.
+Gtk-Message: 16:39:34.767: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933174967	Marionette	INFO	Marionette enabled
+1672933174969	Marionette	INFO	Listening on port 45831
+WebDriver BiDi listening on ws://127.0.0.1:52213
+Read port: 45831
+1672933175203	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQaAZYX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52213/devtools/browser/17050866-44d9-4baf-9486-723bc3cb6d10
+1672933177380	geckodriver	INFO	Listening on 127.0.0.1:44529
+1672933177864	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "42537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletmmRY9"
+*** You are running in headless mode.
+Gtk-Message: 16:39:37.882: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933178092	Marionette	INFO	Marionette enabled
+1672933178094	Marionette	INFO	Listening on port 33305
+WebDriver BiDi listening on ws://127.0.0.1:42537
+Read port: 33305
+1672933178310	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletmmRY9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42537/devtools/browser/c816492d-560b-4a1e-9444-a35235827c8b
+1672933186066	geckodriver	INFO	Listening on 127.0.0.1:38955
+1672933186536	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "37519" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWieWgT"
+*** You are running in headless mode.
+Gtk-Message: 16:39:46.555: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933186765	Marionette	INFO	Marionette enabled
+1672933186768	Marionette	INFO	Listening on port 33353
+WebDriver BiDi listening on ws://127.0.0.1:37519
+Read port: 33353
+1672933186980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWieWgT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37519/devtools/browser/ce1aede2-1c0e-41bd-8825-428644bc9418
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933189267	geckodriver	INFO	Listening on 127.0.0.1:41875
+1672933189748	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "53021" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJV0JQ5"
+*** You are running in headless mode.
+Gtk-Message: 16:39:49.765: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933189976	Marionette	INFO	Marionette enabled
+1672933189979	Marionette	INFO	Listening on port 38489
+WebDriver BiDi listening on ws://127.0.0.1:53021
+Read port: 38489
+1672933190187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJV0JQ5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53021/devtools/browser/133fdc33-adf7-41cf-a030-c4ab062e5dcb
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933193454	Marionette	INFO	Stopped listening on port 38489
+1672933193982	geckodriver	INFO	Listening on 127.0.0.1:44253
+1672933194464	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "39317" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuaXBzl"
+*** You are running in headless mode.
+Gtk-Message: 16:39:54.485: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933194699	Marionette	INFO	Marionette enabled
+1672933194702	Marionette	INFO	Listening on port 33637
+WebDriver BiDi listening on ws://127.0.0.1:39317
+Read port: 33637
+1672933194916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuaXBzl/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:39317/devtools/browser/ee8157a1-9f9c-434d-b236-94dd5199ed37
+1672933197351	Marionette	INFO	Stopped listening on port 33637
+1672933197968	geckodriver	INFO	Listening on 127.0.0.1:48057
+1672933198444	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8r6B1s"
+*** You are running in headless mode.
+Gtk-Message: 16:39:58.462: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+1672933198693	Marionette	INFO	Marionette enabled
+1672933198696	Marionette	INFO	Listening on port 45925
+WebDriver BiDi listening on ws://127.0.0.1:47623
+Read port: 45925
+1672933198837	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8r6B1s/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47623/devtools/browser/f45c63a6-272f-4443-a24d-23607caffea7
+1672933201048	Marionette	INFO	Stopped listening on port 45925
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933201872	geckodriver	INFO	Listening on 127.0.0.1:60439
+1672933202352	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "43191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYEgjAW"
+*** You are running in headless mode.
+Gtk-Message: 16:40:02.369: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933202571	Marionette	INFO	Marionette enabled
+1672933202574	Marionette	INFO	Listening on port 38957
+WebDriver BiDi listening on ws://127.0.0.1:43191
+Read port: 38957
+1672933202784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYEgjAW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:43191/devtools/browser/38ff553f-2f16-4ea0-8591-23d4e878a584
+1672933205185	Marionette	INFO	Stopped listening on port 38957
+1672933205809	geckodriver	INFO	Listening on 127.0.0.1:52971
+1672933206269	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "46473" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileLStb0j"
+*** You are running in headless mode.
+Gtk-Message: 16:40:06.288: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933206489	Marionette	INFO	Marionette enabled
+1672933206492	Marionette	INFO	Listening on port 35999
+WebDriver BiDi listening on ws://127.0.0.1:46473
+Read port: 35999
+1672933206706	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLStb0j/search.json.mozlz4", (void 0)))
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+DevTools listening on ws://127.0.0.1:46473/devtools/browser/1eb412d9-d310-48ff-a51c-6ef331507a4e
+1672933209272	Marionette	INFO	Stopped listening on port 35999
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933209787	geckodriver	INFO	Listening on 127.0.0.1:49111
+1672933210264	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33905" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileMQ84gX"
+*** You are running in headless mode.
+Gtk-Message: 16:40:10.284: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933210517	Marionette	INFO	Marionette enabled
+1672933210520	Marionette	INFO	Listening on port 43169
+Read port: 43169
+WebDriver BiDi listening on ws://127.0.0.1:33905
+1672933210608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMQ84gX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33905/devtools/browser/bdb9c0a3-2256-4ed5-ad18-69d77985b3ac
+1672933213079	Marionette	INFO	Stopped listening on port 43169
+1672933213715	geckodriver	INFO	Listening on 127.0.0.1:55373
+1672933214180	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "33663" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileSFKHtB"
+*** You are running in headless mode.
+Gtk-Message: 16:40:14.199: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933214406	Marionette	INFO	Marionette enabled
+1672933214409	Marionette	INFO	Listening on port 41023
+WebDriver BiDi listening on ws://127.0.0.1:33663
+Read port: 41023
+1672933214627	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSFKHtB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:33663/devtools/browser/2dc50325-8614-4868-8de1-499c8b2d4e27
+1672933216949	Marionette	INFO	Stopped listening on port 41023
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933217564	geckodriver	INFO	Listening on 127.0.0.1:39117
+1672933218044	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "47795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilehyguTA"
+*** You are running in headless mode.
+Gtk-Message: 16:40:18.061: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933218274	Marionette	INFO	Marionette enabled
+1672933218277	Marionette	INFO	Listening on port 41587
+WebDriver BiDi listening on ws://127.0.0.1:47795
+Read port: 41587
+1672933218486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehyguTA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:47795/devtools/browser/1075b069-a16f-4652-a423-f254a85c4936
+1672933220871	Marionette	INFO	Stopped listening on port 41587
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933221496	geckodriver	INFO	Listening on 127.0.0.1:54327
+1672933221976	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "52437" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileTXeZEy"
+*** You are running in headless mode.
+Gtk-Message: 16:40:21.996: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933222216	Marionette	INFO	Marionette enabled
+1672933222219	Marionette	INFO	Listening on port 34691
+WebDriver BiDi listening on ws://127.0.0.1:52437
+Read port: 34691
+1672933222377	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTXeZEy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52437/devtools/browser/b11be9fd-2ca9-42d9-92c2-e0af648f9ad5
+1672933224939	Marionette	INFO	Stopped listening on port 34691
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672933225487	geckodriver	INFO	Listening on 127.0.0.1:41057
+1672933225945	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "37965" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWY1hcs"
+*** You are running in headless mode.
+Gtk-Message: 16:40:25.967: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933226234	Marionette	INFO	Marionette enabled
+1672933226237	Marionette	INFO	Listening on port 39695
+Read port: 39695
+WebDriver BiDi listening on ws://127.0.0.1:37965
+1672933226316	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWY1hcs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:37965/devtools/browser/14029a8d-d992-406e-879e-869f51616cee
+1672933228850	geckodriver	INFO	Listening on 127.0.0.1:43299
+1672933229332	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiled9mYuJ"
+*** You are running in headless mode.
+Gtk-Message: 16:40:29.349: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933229556	Marionette	INFO	Marionette enabled
+1672933229559	Marionette	INFO	Listening on port 41377
+WebDriver BiDi listening on ws://127.0.0.1:58809
+Read port: 41377
+1672933229778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiled9mYuJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58809/devtools/browser/453b51da-43f2-4135-b5fa-015e6f7ff09b
+1672933233214	geckodriver	INFO	Listening on 127.0.0.1:35009
+1672933233692	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "58923" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaE1iKp"
+*** You are running in headless mode.
+Gtk-Message: 16:40:33.711: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933233955	Marionette	INFO	Marionette enabled
+1672933233958	Marionette	INFO	Listening on port 36077
+Read port: 36077
+WebDriver BiDi listening on ws://127.0.0.1:58923
+1672933234033	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaE1iKp/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58923/devtools/browser/7418077c-75f1-43d1-8e13-4ab829e311a4
+1672933236794	geckodriver	INFO	Listening on 127.0.0.1:44049
+1672933237272	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-headless" "--remote-debugging-port" "42543" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileclcoBy"
+*** You are running in headless mode.
+Gtk-Message: 16:40:37.291: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+1672933237505	Marionette	INFO	Marionette enabled
+1672933237508	Marionette	INFO	Listening on port 46583
+WebDriver BiDi listening on ws://127.0.0.1:42543
+Read port: 46583
+1672933237731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileclcoBy/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:42543/devtools/browser/a835bdcd-d83d-4360-9849-7ae2b85afb5f
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+ALSA lib conf.c:4120:(snd_config_update_r) Cannot access file /usr/share/alsa/alsa.conf
+ALSA lib seq.c:935:(snd_seq_open_noupdate) Unknown SEQ default
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
